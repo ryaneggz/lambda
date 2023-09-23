@@ -1,0 +1,3 @@
+[submodule "alerts/cron-alert"]
+	path = alerts/cron-alert
+	url = https://github.com/ryaneggz/cron-alert.git
